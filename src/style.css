@@ -363,8 +363,8 @@ hr{
 }
 
 @media(max-width: 426px){
-    .logo:last-of-type{
-        
+    .title-wrapper a{
+        display: none;
     }
 
     .title-wrapper{
